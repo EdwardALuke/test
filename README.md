@@ -1,2 +1,2 @@
 # test
-This is a test for learing
+This is a test for learning
